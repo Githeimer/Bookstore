@@ -1,0 +1,69 @@
+[{
+  "_id": {
+    "$oid": "65604d252aa59dbd43a5f035"
+  },
+  "title": "Name of the Rain",
+  "author": "Paulo Coelho",
+  "pages": 600,
+  "genres": [
+    "fiction",
+    "fantasy"
+  ],
+  "rating": 9,
+  "reviews": [
+    {
+      "name": "Brandon",
+      "body": "Just looking like a WOW!"
+    },
+    {
+      "name": "amanda",
+      "body": "decent book, no cap"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65604f340fb18bbd9a9e4d07"
+  },
+  "title": "HARRY AND THE ROSE",
+  "author": "Hari bahadur",
+  "pages": 400,
+  "genres": [
+    "action",
+    "comedy"
+  ],
+  "rating": 7,
+  "reviews": [
+    {
+      "name": "Alice",
+      "body": "Fantastic product! I love it."
+    },
+    {
+      "name": "Bob",
+      "body": "Not impressed. Could be better."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65604f340fb18bbd9a9e4d08"
+  },
+  "title": "RAM AND THE BLACK COCK",
+  "author": "SARAHJARAN",
+  "pages": 300,
+  "genres": [
+    "romance",
+    "horror"
+  ],
+  "rating": 6,
+  "reviews": [
+    {
+      "name": "Charlie",
+      "body": "Amazing service, quick delivery!"
+    },
+    {
+      "name": "David",
+      "body": "Disappointing quality. Expected more."
+    }
+  ]
+}]
